@@ -1,6 +1,6 @@
 <template>
   <div class="d-flex mx-auto align-center justify-center" style="height: 90vh">
-    <v-card width="500" rounded="xl">
+    <v-card width="500" rounded="xl" color="white">
       <v-card-text class="text-center" mx-8 my-5>
         <v-icon size="150" color="pink">mdi-account</v-icon>
         <p class="my-3" >Welcome back! please sign in</p>
